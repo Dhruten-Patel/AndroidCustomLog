@@ -4,6 +4,6 @@ import android.util.Log;
 
 public class LogDetails {
     public static void printLog(String logTag,String message){
-        Log.d(logTag, " "+message);
+        Log.d(logTag, "Library Logs data: "+message);
     }
 }
