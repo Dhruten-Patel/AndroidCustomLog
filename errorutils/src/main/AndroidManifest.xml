@@ -1,2 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="myservice.dhrutenpatel.example.com.errorutils" />
+    package="myservice.dhrutenpatel.example.com.errorutils">
+
+    <application>
+        <activity android:name=".OpenNewToasTActivity"></activity>
+    </application>
+
+</manifest>
