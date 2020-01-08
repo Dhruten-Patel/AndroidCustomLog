@@ -3,7 +3,7 @@
     package="myservice.dhrutenpatel.example.com.errorutils">
 
     <application>
-        <activity android:name=".OpenNewToasTActivity"></activity>
+        <activity android:name=".openSimpleLibraryActivity"></activity>
     </application>
 
 </manifest>
