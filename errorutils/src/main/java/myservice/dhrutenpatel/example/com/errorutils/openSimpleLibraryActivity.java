@@ -5,7 +5,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class OpenNewToasTActivity extends AppCompatActivity {
+public class openNewToastActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
